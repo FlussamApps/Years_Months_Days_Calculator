@@ -19,7 +19,7 @@ Link to the privacy policy of third-party service providers used by the app
 
   User Input Content: The content you provide (such as queries and text) is sent to the OpenAI API for processing, and OpenAI is committed to protecting privacy per its policies.
   
-User inputs are **not used to train AI models**, and the application owner **cannot access these inputs** unless the user voluntarily shares specific input using the "Report" button within the application.
+User inputs are not used to train AI models, and the application owner cannot access these inputs unless the user voluntarily shares specific input using the "Report" button within the application.
 
 **Log Data**
 
