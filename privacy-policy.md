@@ -17,6 +17,10 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Firebase](https://firebase.google.com/support/privacy/)
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 
+  User Input Content: The content you provide (such as queries and text) is sent to the OpenAI API for processing, and OpenAI is committed to protecting privacy per its policies.
+  
+User inputs are **not used to train AI models**, and the application owner **cannot access these inputs** unless the user voluntarily shares specific input using the "Report" button within the application.
+
 **Log Data**
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
@@ -35,11 +39,17 @@ I value your trust in providing us your Personal Information, thus we are strivi
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
+**Children**
+
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+
+The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (a) so that they will be able to take the necessary actions.
+
 **Changes to This Privacy Policy**
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2023-08-26
+This policy is effective as of 2024-10-28
 
 **Contact Us**
 
